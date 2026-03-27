@@ -1,0 +1,44 @@
+TP Clase 26/03/2026- Resolución
+
+Ejercicio 1
+
+Multiple Choice 
+1-c
+2-b
+3-b
+
+Verdadero o Falso
+1-Verdadero
+2-Falso. La compilación ocurre antes.
+3-Verdadero
+4-Falso. Son ignorados los comentarios
+
+
+Ejercicio 2
+int         Primitivo
+String      Referencia
+double      Primitivo
+boolean     Primitivo
+Alumno      Referencia
+Integer     Referencia
+char        Primitivo
+int[]       Referencia
+String[]    Referencia
+Object      Referencia
+
+Variable primitiva: almacena el valor. Ej: puede ser números enteros y reales, booleanos, caracteres
+Variable de referencia: guarda la DIRECCION de memoria donde está el objeto
+
+
+
+Ejercico 3
+
+error 1: public Class--- class es palabra reservada; va con minuscula
+error 2: int class=100; --- class es palabra reservada y no se puede usar como nombre de variable
+error 3: comentario del bloque esta sin cerrar
+error 4: valorfinal ---- mal porque fue declarada como ValorFinal anteriormente
+error 5: char categoria ="A"; --- char se usa con comillas simples ej: 'A'
+
+
+
+
